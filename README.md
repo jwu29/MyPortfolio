@@ -10,6 +10,7 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 
 ![](/portfolio_images/etl.png)
 
+---
 
 ## [Recreating the 2021/22 Premier League Season with Poisson Processes](https://github.com/jwu29/21-22PLSimulation)
 
@@ -20,6 +21,7 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 
 ![](/portfolio_images/poissonprocess.png)
 
+---
 
 ## [AI Hack 2022 - Forecasting change in electricity costs](https://github.com/jwu29/AIHack2022-Group1)
 
@@ -29,6 +31,7 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 
 ![](/portfolio_images/aihack.png)
 
+---
 
 ## [Predicting Genre of Music with Neural Networks](https://github.com/jwu29/music-genre-predictor)
 
@@ -39,6 +42,7 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 
 ![](/portfolio_images/databrawl.png)
 
+---
 
 ## [Statistical trends in the general playing style of Major League Baseball](https://docs.google.com/document/d/1togUvvKaK-zmpXBeoSVa4yxoX7fL2fUNDo8rWkH2E2c/edit?usp=sharing)
 
@@ -49,6 +53,7 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 
 ![](/portfolio_images/mlb.png)
 
+---
 
 # UI/UX & Game Design
 
