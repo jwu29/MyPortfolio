@@ -15,5 +15,25 @@ Hi, welcome to Josiah Wu's portfolio! Please read below for my personal projects
 * Simulated full-time scores for all matches and the final league table.
 * Created a poster presenting my results.
 
+## [AI Hack 2022 - Forecasting change in electricity costs](https://github.com/jwu29/AIHack2022-Group1)
+
+* A team project in AI Hack 2022, an annual hackathon hosted by Imperial College Data Science Society.
+* Constructed an ARIMA model to forecast change in electricity costs using time series data in Python.
+* Applied Dickey-Fuller test to test for seasonality and stationarity in electricity costs.
+
+## [Predicting Genre of Music with Neural Networks](https://github.com/jwu29/music-genre-predictor)
+
+* Constructed a multi-layer perceptron and utilized Kaggle data sets to train the neural network using tensorflow and keras in Python.
+* Trained the neural network with training data; cross-validation with test data.
+* Classification Report - including confusion matrix and metrics such as accuracy, precision, F1-score, support.
+* Composed a written report of my results and conclusions. Awarded runners-up in the competition.
+
+## [Statistical trends in the general playing style of Major League Baseball]()
+
+* Fetched data from baseballsavant.com
+* Investigated the increase in pitchers’ fastball velocity and spin rate using Student’s t-test & F-test from Analysis of Variance in Excel & R.
+* Visualized the effect of spin rate and Magnus force on the trajectory of a pitch using MATLAB.
+* Presented my findings in front of a general audience who have little knowledge about baseball.
+
 
 
