@@ -1,7 +1,6 @@
 Hi, welcome to Josiah Wu's portfolio!
 
 # My Projects
-
 ## [Investigation of Entry-Exit figures and travel time in London Underground](https://github.com/jwu29/TubeVisual)
 
 * Fetched station data from the TfL REST API using Python.
