@@ -42,8 +42,7 @@ Hi, welcome to Josiah Wu's portfolio! Please read below for my personal projects
 
 *	A group project in ImpVis Project, a course aimed to create interactive online visualizations on abstract STEM concepts.
 *	Created a game to educate fourth-year medical students about the procedure and applications of q-PCR using HTML, CSS, JavaScript and React.js.
-*	Designed a website which included the game and other helpful resources (e.g. YouTube)
-*	Presented our weekly progress to other groups in group stand-up meetings; offering and receiving feedback from/to others.
+*	Designed a website which included the game and other helpful resources (e.g. YouTube videos)
 
 
 
