@@ -28,12 +28,27 @@ Hi, welcome to Josiah Wu's portfolio! Please read below for my personal projects
 * Classification Report - including confusion matrix and metrics such as accuracy, precision, F1-score, support.
 * Composed a written report of my results and conclusions. Awarded runners-up in the competition.
 
-## [Statistical trends in the general playing style of Major League Baseball]()
+## [Statistical trends in the general playing style of Major League Baseball](https://docs.google.com/document/d/1togUvvKaK-zmpXBeoSVa4yxoX7fL2fUNDo8rWkH2E2c/edit?usp=sharing)
 
 * Fetched data from baseballsavant.com
 * Investigated the increase in pitchers’ fastball velocity and spin rate using Student’s t-test & F-test from Analysis of Variance in Excel & R.
 * Visualized the effect of spin rate and Magnus force on the trajectory of a pitch using MATLAB.
 * Presented my findings in front of a general audience who have little knowledge about baseball.
+
+
+# UI/UX & Game Design
+
+## [ImpVis Project – creating interactive online visualizations on abstract STEM concepts](https://jwu29.github.io/ImpVisGroup1project-main/Group1main1-2.html)
+
+*	A group project in ImpVis Project, a course aimed to create interactive online visualizations on abstract STEM concepts.
+*	Created a game to educate fourth-year medical students about the procedure and applications of q-PCR using HTML, CSS, JavaScript and React.js.
+*	Designed a website which included the game and other helpful resources (e.g. YouTube)
+*	Presented our weekly progress to other groups in group stand-up meetings; offering and receiving feedback from/to others.
+
+
+
+
+
 
 
 
