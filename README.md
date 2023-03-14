@@ -8,6 +8,7 @@
 
 ![](/portfolio_images/etl.png)
 
+
 ## [Recreating the 2021/22 Premier League Season with Poisson Processes](https://github.com/jwu29/21-22PLSimulation)
 
 * Extracted ~800 rows of goal-scoring data from the Premier League website using Selenium and beautifulsoup4 in Python.
@@ -17,6 +18,7 @@
 
 ![](/portfolio_images/poissonprocess.png)
 
+
 ## [AI Hack 2022 - Forecasting change in electricity costs](https://github.com/jwu29/AIHack2022-Group1)
 
 * A team project in AI Hack 2022, an annual hackathon hosted by Imperial College Data Science Society.
@@ -24,6 +26,7 @@
 * Applied Dickey-Fuller test to test for seasonality and stationarity in electricity costs.
 
 ![](/portfolio_images/aihack.png)
+
 
 ## [Predicting Genre of Music with Neural Networks](https://github.com/jwu29/music-genre-predictor)
 
@@ -33,6 +36,7 @@
 * Composed a written report of my results and conclusions. Awarded runners-up in the competition.
 
 ![](/portfolio_images/databrawl.png)
+
 
 ## [Statistical trends in the general playing style of Major League Baseball](https://docs.google.com/document/d/1togUvvKaK-zmpXBeoSVa4yxoX7fL2fUNDo8rWkH2E2c/edit?usp=sharing)
 
