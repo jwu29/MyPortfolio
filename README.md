@@ -2,6 +2,12 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 
 # Data Science
 
+## [Investigation of Major League Baseball (MLB) players' offensive performance through Classical Multidimensional Scaling](https://jwu29.shinyapps.io/MLBBattingStatsComparison/) 
+*
+*
+
+![](/portfolio_images/PCoA_MLB.png)
+
 ## [Investigation of Entry-Exit figures and travel time in London Underground](https://github.com/jwu29/TubeVisual)
 
 * Fetched station data from the TfL API using Python.
