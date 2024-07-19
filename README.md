@@ -21,7 +21,7 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 
 ---
 
-# Data Analysis
+# Data Analysis/Machine Learning
 
 ## [Investigation of Major League Baseball (MLB) players' offensive performance through Classical Multidimensional Scaling](https://jwu29.shinyapps.io/MLBBattingStatsComparison/) 
 * Analysed the similarity of batting statistics of MLB batters with >50 Plate Appearances in R.
