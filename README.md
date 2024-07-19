@@ -1,13 +1,6 @@
 This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 
-# Data Science
-
-## [Investigation of Major League Baseball (MLB) players' offensive performance through Classical Multidimensional Scaling](https://jwu29.shinyapps.io/MLBBattingStatsComparison/) 
-* Analysed the similarity of batting statistics of MLB batters with >50 Plate Appearances in R.
-* Applied Classic Multidimensional Scaling (MDS)/ Principles Coordinates Analysis (PCoA) to obtain configuration of players, with adjustments with respect to their defensive positions
-* Built an interactive dashboard using shiny in R.
-
-![](/portfolio_images/PCoA_MLB.png)
+# Data Engineering
 
 ## [Investigation of Entry-Exit figures and travel time in London Underground](https://github.com/jwu29/TubeVisual)
 
@@ -16,6 +9,17 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 * Visualised entry-exit figures with 2014-17 London Underground Data on an automated Tableau dashboard connected with Google BigQuery.
 
 ![](/portfolio_images/etl.png)
+
+---
+
+# Data Analysis
+
+## [Investigation of Major League Baseball (MLB) players' offensive performance through Classical Multidimensional Scaling](https://jwu29.shinyapps.io/MLBBattingStatsComparison/) 
+* Analysed the similarity of batting statistics of MLB batters with >50 Plate Appearances in R.
+* Applied Classic Multidimensional Scaling (MDS)/ Principles Coordinates Analysis (PCoA) to obtain configuration of players, with adjustments with respect to their defensive positions
+* Built an interactive dashboard using shiny in R.
+
+![](/portfolio_images/PCoA_MLB.png)
 
 ---
 
