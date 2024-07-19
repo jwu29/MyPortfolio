@@ -4,6 +4,9 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 
 ## [Visualization of Commercial Flights by Plane Types and Regions](https://github.com/jwu29/open-flights-visual)
 
+![](/portfolio_images/open_flights.png)
+
+---
 
 ## [Investigation of Entry-Exit figures and travel time in London Underground](https://github.com/jwu29/TubeVisual)
 
