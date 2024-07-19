@@ -3,6 +3,9 @@ This is Josiah Wu's Portfolio. Please see below for my personal projects. Enjoy!
 # Data Engineering
 
 ## [Visualization of Commercial Flights by Plane Types and Regions](https://github.com/jwu29/open-flights-visual)
+*	Created a scheduled workflow on Azure Data Factory for data ingestion of commercial flights data.
+*	Performed data processing and transformations on Azure Databricks via the use of PySpark.
+*	Analysed transformed data using Azure Synapse Analytics; visualised the transformed data on a dashboard created by Power BI.
 
 ![](/portfolio_images/open_flights.png)
 
