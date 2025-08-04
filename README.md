@@ -2,7 +2,7 @@ This is Josiah Wu's Portfolio. Please see below for the coding projects I have p
 
 # Software Development
 
-## [Sample Student Enrolment System Application](https://github.com/ChristopherArdiwinata/UTS-FundamentalsSoftEng)
+## [Model Student Enrolment System Application](https://github.com/ChristopherArdiwinata/UTS-FundamentalsSoftEng)
 *	Developed CLI & GUI apps in Python to manage student enrolments, registration, and grade assignment.
 *	Applied OOP principles and UML design; utilized file handling for data persistence and Git for version control and collaborative coding throughout the SDLC.
 *	Implemented options to add or remove up to 50 subject enrolments supported by CRUD operations of database for students’ data with exception handling.
